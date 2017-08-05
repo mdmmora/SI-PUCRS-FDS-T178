@@ -1,6 +1,6 @@
 package reaquecimento;
 
-
+  
 public class Caixa {
 	
 	private int numeroCaixa;
