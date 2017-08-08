@@ -12,9 +12,11 @@ public class Banco {
 	
 	public void adicionaNaFila(Cliente cliente){
 		fila.add(cliente); //como é fila, vai adicionar no final
+		
 	}
 	
 	public Cliente retiraFila(Caixa caixa){
+	
 		if(fila.isEmpty()){
 			return null;
 		}
@@ -23,11 +25,12 @@ public class Banco {
 		}
 		//se chegou aqui é porque o caixa dá preferencia para idosos
 		for(Cliente c: fila){
-			if(c.getIdade() > 65){ //como é fila de banco, o for n tem problema, nunca vai se ruma fila gigaenorme
+			if(c.getIdade() >= 65){ //como é fila de banco, o for n tem problema, nunca vai se ruma fila gigaenorme
 				return fila.remove(fila.indexOf(c));
 			}
 		}
-		return null;	
+		//se chegou aqui é pq a fila nao ta vazia e nao tem idoso, e o caixa de idoso q chamou, entao manda uma pessoa nao idosa
+		return fila.remove(0);	
 	}
 
 }
