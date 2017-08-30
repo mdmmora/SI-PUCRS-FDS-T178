@@ -13,12 +13,12 @@ public class FDSMain {
 		
 		// Wagner Santos
 		System.out.println("Hello, World! Comunitario! Wagner\n");
-		// Tamires Domingues
-		System.out.println("Hello, World! Comunitario! Tamires\n");
 		// Thiago Roly Gomes
 		System.out.println("Hello, World! Comunitario! Thiago\n");
 		//Catarina Nogueira
 		System.out.println("Hello, World! Comunitario! Catarina\n");
+		// Tamires Domingues
+		System.out.println("Hello, World! Comunitario! Tamires\n");
 	}
 
 }
