@@ -17,6 +17,9 @@ public class FDSMain {
 		// Franco Fiorini
 		System.out.println("Hello, World! Comunitario! Franco\n");
 
+		//Kim Schaurich
+		System.out.println("Hello, World! Comunitario! Kim Schaurich\n");
+		
 		// Thiago Roly Gomes
 		System.out.println("Hello, World! Comunitario! Thiago\n");
 		
