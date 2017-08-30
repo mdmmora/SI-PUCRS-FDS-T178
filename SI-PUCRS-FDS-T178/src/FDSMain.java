@@ -16,7 +16,9 @@ public class FDSMain {
 		
 		// Thiago Roly Gomes
 		System.out.println("Hello, World! Comunitario! Thiago\n");
-
+		
+		//Catarina Nogueira
+		System.out.println("Hello, World! Comunitario! Catarina\n");
 	}
 
 }
