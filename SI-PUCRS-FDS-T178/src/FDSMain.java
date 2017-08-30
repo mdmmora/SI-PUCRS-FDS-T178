@@ -12,6 +12,9 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Michael\n");
 		// Wagner Santos
 		System.out.println("Hello, World! Comunitario! Wagner\n");
+		//Kim Schaurich
+		System.out.println("Hello, World! Comunitario! Kim Schaurich\n");
+		
 	}
 
 }
