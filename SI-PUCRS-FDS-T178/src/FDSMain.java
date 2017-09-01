@@ -33,7 +33,8 @@ public class FDSMain {
 		// Tamires Domingues
 		System.out.println("Hello, World! Comunitario! Tamires\n");
 
-		
+		// Lucas Bergmann
+		System.out.println("Hello, World! Comunitario! Lucas\n");
 
 	}
 
