@@ -26,8 +26,14 @@ public class FDSMain {
 		// Catarina Nogueira
 		System.out.println("Hello, World! Comunitario! Catarina\n");
 
+
 		// Cezar Soares
 		System.out.println("Hello, World! Comunitario! Cezar\n");
+
+		// Tamires Domingues
+		System.out.println("Hello, World! Comunitario! Tamires\n");
+
+		
 
 	}
 
