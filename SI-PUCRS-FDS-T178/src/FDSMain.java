@@ -10,24 +10,30 @@ public class FDSMain {
 
 		// Michael da Costa Móra
 		System.out.println("Hello, World! Comunitario! Michael\n");
-		
+
 		// Wagner Santos
 		System.out.println("Hello, World! Comunitario! Wagner\n");
 
 		//Franco Fiorini
 		System.out.println("Hello, World! Comunitario! Franco\n");
 
-		//Kim Schaurich
+		// Kim Schaurich
 		System.out.println("Hello, World! Comunitario! Kim Schaurich\n");
 
 		// Thiago Roly Gomes
 		System.out.println("Hello, World! Comunitario! Thiago\n");
-		
-		//Catarina Nogueira
+
+		// Catarina Nogueira
 		System.out.println("Hello, World! Comunitario! Catarina\n");
+
+
+		// Cezar Soares
+		System.out.println("Hello, World! Comunitario! Cezar\n");
 
 		// Tamires Domingues
 		System.out.println("Hello, World! Comunitario! Tamires\n");
+
+		
 
 	}
 
