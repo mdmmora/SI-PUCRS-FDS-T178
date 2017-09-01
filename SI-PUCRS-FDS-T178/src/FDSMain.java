@@ -2,8 +2,8 @@
 public class FDSMain {
 
 	public static void main(String[] args) {
-		// *******************
-		// Insira, no final deste mï¿½todo, um comentï¿½rio com
+		// ********************
+		// Insira, no final deste método, um comentï¿½rio com
 		// o seu nome, e um println com o Hello, World, conform
 		// o exemplo abaixo.
 		System.out.println("Hello, World! Comunitario!\n");
